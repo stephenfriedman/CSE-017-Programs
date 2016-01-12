@@ -1,0 +1,18 @@
+P e1 10 5
+P e2 19 5 
+P e3 11 5 
+P e4 18 5
+R mouth 10 10 10 2
+P nose 14 7
+C nose @
+P p3 9 9
+P p4 20 9 
+T title 10 2 I'm Happy!
+D
+E title
+T title 10 2 Boo hoo
+X this is a bad command 
+M p3 9 12
+M p4 20 12
+E nose
+D
